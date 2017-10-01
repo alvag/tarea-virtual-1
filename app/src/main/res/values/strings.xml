@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Tarea Virtual 1</string>
+    <string name="dni">DNI</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Direccion</string>
+    <string name="destino">Destino</string>
+    <string name="vender">Realizar Venta</string>
+    <string name="total">Total S/. </string>
+    <string name="precio">Precio S/. </string>
+    <string name="descuento">Descuento S/. </string>
 </resources>
